@@ -12,11 +12,9 @@
 body {
 	background: var(--fondo);
 	font-family: 'Open Sans', sans-serif;
-	background-image: url('../img/test1-tile.jpg');
-    /*background-size: cover; /* Para cubrir todo el fondo */
-   /* background-position: center center; /* Ajusta la posición de la imagen */
-	background-size: auto; /* Tamaño original de la imagen */
-    background-repeat: repeat; /* Repetir en mosaico */
+	background-image: url('../img/test1.jpg');
+    background-size: cover; /* Para cubrir todo el fondo */
+	background-position: left left;
 
 
 }
@@ -41,7 +39,8 @@ header .logotipo {
 	font-family: 'Bebas Neue', cursive;
 	font-weight: normal;
 	color: var(--rojo);
-	font-size: 40px;
+	text-shadow: 2px 2px 2px black;
+		font-size: 40px;
 }
 
 header nav a {
