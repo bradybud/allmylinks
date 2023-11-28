@@ -12,7 +12,15 @@
 body {
 	background: var(--fondo);
 	font-family: 'Open Sans', sans-serif;
+	background-image: url('../img/collage.jpg');
+    /*background-size: cover; /* Para cubrir todo el fondo */
+   /* background-position: center center; /* Ajusta la posición de la imagen */
+	background-size: auto; /* Tamaño original de la imagen */
+    background-repeat: repeat; /* Repetir en mosaico */
+
+
 }
+
 
 .contenedor {
 	width: 90%;
