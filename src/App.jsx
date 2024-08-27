@@ -5,32 +5,28 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Julen Reyes</h1>
+        <h1>Brady Bud</h1>
         <div className="links">
-          <LinkButton text="X - Twitter" url="https://x.com/juulenreyes"/>
-          <LinkButton text="Instagram" url="https://www.instagram.com/juulenreyes/"/>
+          <LinkButton text="X - Twitter" url="https://x.com/bradybud_"/>
+          <LinkButton text="Instagram" url="https://www.instagram.com/bradybud_/"/>
 
-          <LinkButton text="Onlyfans 🔞" url="https://onlyfans.com/juulenreyes"/>
-          <LinkButton text="Loverfans 🔞" url="https://loverfans.com/juulenreyes"/>
-          <LinkButton text="dirtyFans 🔞" url="https://www.dirtyfans.com/juulenreyes"/>
+          <LinkButton text="TikTok" url="https://www.tiktok.com/@bradybud_?_t=8jAWkpyzrgE&_r=1"/>
+          <LinkButton text="El mejor contenido 🔞" url="https://www.sheer.com/bradybud"/>
 
        
         </div>
         <div className="social-media">
-          <a href="https://x.com/juulenreyes">
+          <a href="https://x.com/bradybud_">
             <img src="assets/x.jpg" alt="Twitter" />
           </a>
-          <a href="https://www.instagram.com/juulenreyes/">
+          <a href="https://www.instagram.com/bradybud_/">
             <img src="assets/instagram.jpg" alt="Instagram" />
           </a>
-          <a href="https://onlyfans.com/juulenreyes">
-            <img src="assets/only.png" alt="Only" />
+          <a href="https://www.tiktok.com/@bradybud_?_t=8jAWkpyzrgE&_r=1">
+            <img src="assets/tiktok.jpg" alt="Tiktok" />
           </a>
-          <a href="https://loverfans.com/juulenreyes">
-            <img src="assets/lover.jpg" alt="Lover" />
-          </a>
-          <a href="https://www.dirtyfans.com/juulenreyes">
-            <img src="assets/dirty.png" alt="Dirty" />
+          <a href="https://www.sheer.com/bradybud">
+            <img src="assets/sheer.png" alt="Sheer" />
           </a>
         </div>
       </div>
